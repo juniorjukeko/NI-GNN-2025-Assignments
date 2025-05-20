@@ -13,18 +13,19 @@ Student status: EuroTeQ course participant from TUM
 - Dataset: ICIJ Offshore Leaks dataset
 
 ### Homework 2
-- Topic: GNN model comparison
-- Dataset: PubMed
-- Architecture: GCN, GraphSAGE, GAT
-- Highlights: Architecture comparison, training curves
+- Topic: GNN models comparison using dgl library
+- Dataset: COX2 dataset from TUdataset (Binary graph classification)
+- Architecture: GCN, GraphSAGE
+- Highlights: Architecture comparison, training curves, confusion matrix
 
 ### Homework 3
-- Topic: Explanation techniques for GNNs
-- Dataset: Amazon Computers
-- Methods: GNNExplainer, CaptumExplainer
-- Highlights: Explanation fidelity, unfaithfulness analysis
+- Topic: Comparing explainer results for GNN models using pytorch-geometric library
+- Dataset: Amazon Computers (Multiclass node classification)
+- Methods: GNNExplainer
+- Highlights: Feature importance, explanation subgraph, explanation fidelity, unfaithfulness analysis
 
 ### Final Project
+NOTE to Lecturer: For the final project written submission there's a possibility that I can't manage to upload all of the written report a few days before the exam (late submission), and I'm really sorry about this. However, I should be able to put up a presentation before the exam. I accept if there is any point penalty from this late(incomplete) submission.
 - Topic: [topic]
 - Dataset: [dataset]
 - Models: [models list]
