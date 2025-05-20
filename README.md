@@ -1,9 +1,9 @@
 ## NI-GNN 2025 Assignments & Final Project Repository
 
-This repository contains my coursework and projects for the **NI-GNN (Graph Neural Networks)** course starting 01.02.2025 to 23.05.2025.
-Student Name: I Wayan Iswara Jay Junior
-CTU email: iwayajay@cvut.cz 
-TUM email: iswarajay.junior@tum.de
+This repository contains my coursework and projects for the **NI-GNN (Graph Neural Networks)** course starting 01.02.2025 to 23.05.2025.\
+Student Name: I Wayan Iswara Jay Junior\
+CTU email: iwayajay@cvut.cz\
+TUM email: iswarajay.junior@tum.de\
 Student status: EuroTeQ course participant from TUM
 
 ## Submissions
