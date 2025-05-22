@@ -26,11 +26,10 @@ Student status: EuroTeQ course participant from TUM
 
 ### Final Project
 NOTE to Lecturer: For the final project written submission there's a possibility that I can't manage to upload all of the written report a few days before the exam (late submission), and I'm really sorry about this. However, I should be able to put up a presentation before the exam. I accept if there is any point penalty from this late(incomplete) submission.
-- Topic: [topic]
-- Dataset: [dataset]
-- Models: [models list]
+- Topic: Multiclass graph classification for enzyme classification
+- Dataset: ENZYMES from TUdataset
+- Models: GCN, GraphSAGE, GIN, GATv2
 - Results: Accuracy, explanation quality, confusion matrix
-- Summary: [1–2 sentences about main findings]
 
 ## 🛠️ Requirements
 Should be given in each of homeworks/final project notebooks
