@@ -25,7 +25,6 @@ Student status: EuroTeQ course participant from TUM
 - Highlights: Feature importance, explanation subgraph, explanation fidelity, unfaithfulness analysis
 
 ### Final Project
-NOTE to Lecturer: For the final project written submission there's a possibility that I can't manage to upload all of the written report a few days before the exam (late submission), and I'm really sorry about this. However, I should be able to put up a presentation before the exam. I accept if there is any point penalty from this late(incomplete) submission.
 - Topic: Multiclass graph classification for enzyme classification
 - Dataset: ENZYMES from TUdataset
 - Models: GCN, GraphSAGE, GIN, GATv2
